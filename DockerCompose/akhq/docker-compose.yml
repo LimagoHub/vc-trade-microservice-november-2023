@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  akhq:
+    image: tchiotludo/akhq:latest
+    #environment:
+      #JVM_OPTS_FILE: /app/jvm.options
+    ports:
+      - "9080:8080"
+    volumes:
+      - ./application.yml:/app/application.yml
