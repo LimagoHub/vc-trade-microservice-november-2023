@@ -1,0 +1,9 @@
+Agenda
+
+
+1. Introduction of the planned application
+2. Brief demonstration of RabbitMQ and Kafka messaging with Spring Boot integration
+3. Error handling using Dead Letter Queues and Spring Retry Policy
+4. Quick introduction to Kafka for developers
+5. Brief introduction to the Hexagonal (Onion) Architecture
+6. Creating different microservices and discussing their interplay and implementation variations
