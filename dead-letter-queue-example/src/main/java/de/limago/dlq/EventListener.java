@@ -13,8 +13,8 @@ public class EventListener {
     public Consumer<ScoringEvent> kreditantragregistriert(){
         return event -> {
 
-            System.out.println(event.getCreditApplicationId() + " sicher empfangen");
-            //throw new NullPointerException("Boese");
+            //System.out.println(event.getCreditApplicationId() + " sicher empfangen");
+            throw new NullPointerException("Bad");
         };
     }
 

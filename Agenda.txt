@@ -1,6 +1,5 @@
 Agenda
 
-
 1. Introduction of the planned application
 2. Brief demonstration of RabbitMQ and Kafka messaging with Spring Boot integration
 3. Error handling using Dead Letter Queues and Spring Retry Policy
