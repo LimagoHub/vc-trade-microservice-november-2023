@@ -35,6 +35,7 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
         </processorPath>
         <module name="smartbank24-loan-application-store" />
+        <module name="smartbank24-loan-application-scoring" />
         <module name="smartbank24-loan-application-acceptance" />
       </profile>
     </annotationProcessing>
@@ -47,6 +48,7 @@
       <module name="RabbitMQSender" options="-parameters" />
       <module name="dead-letter-queue-example" options="-parameters" />
       <module name="smartbank24-loan-application-acceptance" options="-parameters" />
+      <module name="smartbank24-loan-application-scoring" options="-parameters" />
       <module name="smartbank24-loan-application-store" options="-parameters" />
     </option>
   </component>

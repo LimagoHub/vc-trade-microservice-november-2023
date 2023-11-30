@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/dead-letter-queue-example/pom.xml" />
         <option value="$PROJECT_DIR$/smartbank24-loan-application-acceptance/pom.xml" />
         <option value="$PROJECT_DIR$/smartbank24-loan-application-store/pom.xml" />
+        <option value="$PROJECT_DIR$/smartbank24-loan-application-scoring/pom.xml" />
       </list>
     </option>
   </component>
